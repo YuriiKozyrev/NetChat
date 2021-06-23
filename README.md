@@ -1,4 +1,4 @@
-NetChat
-Client - javafx
+NetChat:
+Client - javafx,
 DB - SQLite
 
